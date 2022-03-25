@@ -1,0 +1,19 @@
+.favorites {
+    padding: 30px 250px;
+}
+
+.fraim {
+    background-color: rgb(238, 232, 232);
+    padding: 30px 40px
+}
+
+.fraim i {
+    color: red;
+    font-size: 23px;
+    margin-left: 5px;
+}
+
+.logo {
+    font-size: 23px;
+    font-weight: bold;
+}

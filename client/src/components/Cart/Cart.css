@@ -1,0 +1,39 @@
+.cart1 {
+    padding: 30px 250px;
+}
+
+.fraim {
+    background-color: rgb(238, 232, 232);
+    padding: 30px 40px
+}
+
+.fraim i {
+    color: red;
+    font-size: 23px;
+    margin-left: 5px;
+}
+
+.logo {
+    font-size: 23px;
+    font-weight: bold;
+}
+
+.inputPrice{
+    height: 30px
+}
+
+.border_zero{
+    border: 0
+}
+
+.cards-absolute{
+    position: absolute;
+    top: 80px;
+    left: 300px;
+    border: 2px solid red;
+    width: 700px
+}
+
+.pos_rel{
+    position: relative;
+}

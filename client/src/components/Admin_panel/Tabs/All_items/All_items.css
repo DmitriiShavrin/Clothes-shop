@@ -1,0 +1,24 @@
+.right_part {
+    margin-top: 30px;
+    font-weight: bold;
+}
+
+.table-edit {
+    position: relative;
+}
+
+/* .edit_card {
+    position: absolute;
+    top: 0;
+    left: 80px
+} */
+
+.card_s {
+    width: 350px;
+    height: auto;
+    position: absolute;
+    top: 0;
+    left: 300px;
+    padding-left: 6px;
+    padding-right: 6px;
+}

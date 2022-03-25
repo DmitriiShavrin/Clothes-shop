@@ -1,0 +1,28 @@
+.link_sidebar {
+    margin-left: 10px;
+    text-decoration: none;
+    color: rgb(16, 16, 82);
+    border: 1px solid #ddd;
+    margin: 4px 0 4px 18px;
+    width: 300px;
+    padding: 4px 8px;
+    border-radius: 3px
+}
+
+.exit {
+    border: 0;
+    background-color: #fff;
+    margin-top: 25px;
+    margin-left: 240px
+}
+
+.sidebar {
+    width: 500px;
+    margin-top: 30px
+}
+
+.greating {
+    margin-bottom: 20px;
+    margin-left: 30px;
+    font-weight: bold;
+}

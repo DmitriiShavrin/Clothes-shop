@@ -1,0 +1,80 @@
+.womens {
+    padding: 50px 0;
+}
+
+.supply-cards {
+    padding-top: 40px;
+}
+
+.supply_card img {
+    width: 100%;
+    height: auto;
+    margin-bottom: 10px;
+    border-radius: 5px 5px 0 0
+}
+
+.supply_card_info {
+    padding: 10px 10px
+}
+
+.supply_card {
+    position: relative;
+    color: rgb(16, 16, 82);
+    border: 1px solid #ddd;
+    border-radius: 5px
+}
+
+.supply_card_status {
+    position: absolute;
+    background-color: white;
+    top: 190px;
+    left: 0;
+    padding: 5px 7px;
+    font-size: 13px;
+}
+
+.supply_card_info h6 {
+    font-size: 13px;
+}
+
+.supply_card_info h5 {
+    font-size: 13px;
+}
+
+.name {
+    margin-bottom: 20px
+}
+
+.heart {
+    position: absolute;
+    right: 20px;
+    top: 20px
+}
+
+.heart i {
+    color: red;
+    font-size: 24px;
+    transition: .5s;
+    cursor: pointer;
+}
+
+.heart i:hover {
+    font-size: 30px;
+}
+
+.cart {
+    position: absolute;
+    right: 15px;
+    bottom: 12px;
+}
+
+.cart i {
+    cursor: pointer;
+    color: rgb(255, 0, 179);
+    transition: .5s;
+    font-size: 30px;
+}
+
+.cart i:hover {
+    font-size: 35px;
+}

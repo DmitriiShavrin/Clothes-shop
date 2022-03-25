@@ -1,0 +1,70 @@
+.card img {
+    width: 100%;
+    height: auto
+}
+
+.card {
+    padding-bottom: 20px;
+    margin-bottom: 10px
+}
+
+.bigCards {
+    padding: 50px 0
+}
+
+.card h4 {
+    margin-top: 30px;
+    color: rgb(16, 16, 82);
+}
+
+.btn-card {
+    color: rgb(16, 16, 82);
+    margin: 10px;
+    padding: 7px 40px;
+    border: 1px solid rgb(16, 16, 82);
+    border-radius: 7px;
+    color: rgb(16, 16, 82);
+    background-color: white;
+    transition: .5s
+}
+
+.btn-card:hover {
+    color: white;
+    background-color: rgb(16, 16, 82);
+}
+
+
+/* NEW SUPPLY */
+
+.new_supply {
+    padding: 80px 0 0 0
+}
+
+.new_supply h4 {
+    padding-bottom: 25px
+}
+
+.supply_card img {
+    width: 100%;
+    height: auto;
+    margin-bottom: 10px;
+}
+
+.supply_card_info {
+    padding: 30px 40px
+}
+
+.supply_card {
+    position: relative;
+    color: rgb(16, 16, 82);
+}
+
+.supply_card_status {
+    position: absolute;
+    background-color: white;
+    top: 300px;
+    left: 0;
+    padding: 5px 7px
+}
+
+.supply_card_status p {}

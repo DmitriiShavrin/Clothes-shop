@@ -1,0 +1,110 @@
+:root h5 {
+    margin: 0
+}
+
+* {
+    font-family: 'Noto Sans', sans-serif;
+    color: rgb(16, 16, 82);
+}
+
+@import 'https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css';
+.login {
+    background-image: url(clothes.jpg);
+    background-size: cover;
+    padding: 40px 30px;
+}
+
+.right_column {
+    background-color: #fff;
+    border-radius: 10px;
+}
+
+.login_heading {
+    margin-top: 40px;
+    margin-bottom: 40px;
+}
+
+.login_heading a {
+    text-decoration: none;
+    color: rgb(16, 16, 82);
+    margin-left: 7px
+}
+
+.container_two {
+    padding-left: 150px;
+    padding-right: 150px
+}
+
+input {
+    margin-bottom: 20px;
+    height: 50px
+}
+
+.fs-small {
+    font-size: 14px
+}
+
+.forget_pass {}
+
+.forget_pass a {
+    text-decoration: none;
+    color: rgb(16, 16, 82);
+    margin-left: 44px;
+}
+
+.enter {
+    width: 100%;
+    border: 0;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    color: white;
+    background-color: rgb(129, 129, 128);
+    border-radius: 5px;
+    margin-bottom: 20px;
+}
+
+.login_icons {
+    padding: 0 80px
+}
+
+.login_icon i {
+    color: white;
+}
+
+.login_icon {
+    background-color: rgb(47, 47, 196);
+    width: 40px;
+    height: 40px;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.hr {
+    margin: 35px 0;
+}
+
+.register {
+    width: 100%;
+    border: 1px solid #ddd;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border-radius: 5px;
+    margin-bottom: 20px;
+    background-color: white;
+    transition: .5s;
+    margin-top: 18px;
+    margin-bottom: 18px;
+}
+
+.register:hover {
+    color: white;
+    background-color: rgb(16, 16, 82);
+}
+
+.rights {
+    font-size: 12px
+}
+
+.inputs {
+    margin-top: 10px
+}

@@ -1,0 +1,96 @@
+* {
+    font-family: 'Noto Sans', sans-serif;
+}
+
+@import 'https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css';
+
+/* TOP SIDE OF HEADER */
+
+.top-h {
+    color: white;
+    background-color: rgb(16, 16, 82);
+    font-size: 14px;
+    padding: 6px 0;
+}
+
+.upper_state {
+    color: white;
+    font-size: 14px;
+}
+
+.top-h a {
+    text-decoration: none;
+    color: white;
+}
+
+
+/* MIDDLE PART OF HEADER */
+
+.middle-h {
+    font-size: 14px;
+    padding-top: 5px;
+}
+
+.logo i {
+    font-size: 50px;
+    color: rgb(16, 16, 82);
+}
+
+.middle-h-input {
+    position: relative;
+    margin-top: 17px;
+}
+
+.middle-h input {
+    border-radius: 25px;
+    border: 0;
+    background-color: #ddd;
+    padding: 15px 15px 15px 40px;
+    color: rgb(16, 16, 82);
+    width: 450px;
+    outline: none;
+}
+
+.middle-h input::placeholder {
+    color: rgb(16, 16, 82);
+}
+
+.search {
+    position: absolute;
+    right: 25px;
+    top: 13px;
+    font-size: 30px;
+    cursor: pointer;
+    color: rgb(16, 16, 82);
+}
+
+.link {
+    margin-left: 60px;
+    color: rgb(16, 16, 82);
+    cursor: pointer;
+}
+
+.link i {
+    font-size: 25px;
+    margin-bottom: 5px;
+    margin-top: 5px;
+}
+
+.link a {
+    text-decoration: none;
+    color: rgb(16, 16, 82);
+}
+
+.refer {
+    text-decoration: none;
+    color: rgb(16, 16, 82);
+    border-bottom: 2px solid transparent;
+}
+
+.refer:hover {
+    color: rgb(16, 16, 82);
+}
+
+.down-h {
+    padding-top: 5px;
+}

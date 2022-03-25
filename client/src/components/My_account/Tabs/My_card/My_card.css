@@ -1,0 +1,33 @@
+.right_part {
+    margin-top: 30px;
+    font-weight: bold;
+}
+
+.credit_card {
+    border-radius: 10px;
+    border: 2px solid black;
+    width: 300px;
+    height: 150px;
+    background-color: aqua;
+}
+
+.pic{
+    width: 20%;
+    height: auto;
+    margin-left: 220px;
+}
+
+.card_number{
+    margin-top: 7px;
+    margin-bottom: 15px;
+}
+
+.bank{
+    margin-top: 15px;
+    font-weight: bold;
+    margin-left: 15px;
+}
+
+.add_card{
+    margin-top: 25px
+}
